@@ -20,6 +20,6 @@
   "homepage": "https://github.com/daanoz/AOC2018#readme",
   "dependencies": {
     "lodash": "^4.17.13",
-    "terminal-kit": "^1.49.4"
+    "terminal-kit": "^2.1.8"
   }
 }
